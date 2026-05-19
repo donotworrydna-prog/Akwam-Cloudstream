@@ -1,0 +1,8 @@
+{
+  "name": "Akwam Tube Repository",
+  "description": "مستودع إضافة أكوام تيوب لكلاود ستريم",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/donotworrydna-prog/Akwam-Cloudstream/main/AkwamProvider/build.gradle.kts"
+  ]
+}
